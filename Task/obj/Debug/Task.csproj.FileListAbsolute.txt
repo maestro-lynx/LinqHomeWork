@@ -1,0 +1,26 @@
+d:\.NET Mentroring\03. LINQ\Task\Task\bin\Debug\Task.exe.config
+d:\.NET Mentroring\03. LINQ\Task\Task\bin\Debug\Task.exe
+d:\.NET Mentroring\03. LINQ\Task\Task\bin\Debug\Task.pdb
+d:\.NET Mentroring\03. LINQ\Task\Task\obj\Debug\Task.csprojAssemblyReference.cache
+d:\.NET Mentroring\03. LINQ\Task\Task\obj\Debug\Task.Properties.Resources.resources
+d:\.NET Mentroring\03. LINQ\Task\Task\obj\Debug\SampleSupport.SampleForm.resources
+d:\.NET Mentroring\03. LINQ\Task\Task\obj\Debug\Task.csproj.GenerateResource.cache
+d:\.NET Mentroring\03. LINQ\Task\Task\obj\Debug\Task.csproj.CoreCompileInputs.cache
+d:\.NET Mentroring\03. LINQ\Task\Task\obj\Debug\Task.exe
+d:\.NET Mentroring\03. LINQ\Task\Task\obj\Debug\Task.pdb
+d:\lab13_1\Task\Task\bin\Debug\Task.exe
+d:\lab13_1\Task\Task\bin\Debug\Task.pdb
+d:\lab13_1\Task\Task\obj\Debug\Task.csprojAssemblyReference.cache
+d:\lab13_1\Task\Task\obj\Debug\Task.Properties.Resources.resources
+d:\lab13_1\Task\Task\obj\Debug\Task.csproj.GenerateResource.cache
+d:\lab13_1\Task\Task\obj\Debug\Task.csproj.CoreCompileInputs.cache
+d:\lab13_1\Task\Task\obj\Debug\Task.exe
+d:\lab13_1\Task\Task\obj\Debug\Task.pdb
+C:\Users\usenz\Desktop\EPAM\EPAM\LINQ\Task\Task\bin\Debug\Task.exe
+C:\Users\usenz\Desktop\EPAM\EPAM\LINQ\Task\Task\bin\Debug\Task.pdb
+C:\Users\usenz\Desktop\EPAM\EPAM\LINQ\Task\Task\obj\Debug\Task.csprojAssemblyReference.cache
+C:\Users\usenz\Desktop\EPAM\EPAM\LINQ\Task\Task\obj\Debug\Task.Properties.Resources.resources
+C:\Users\usenz\Desktop\EPAM\EPAM\LINQ\Task\Task\obj\Debug\Task.csproj.GenerateResource.cache
+C:\Users\usenz\Desktop\EPAM\EPAM\LINQ\Task\Task\obj\Debug\Task.csproj.CoreCompileInputs.cache
+C:\Users\usenz\Desktop\EPAM\EPAM\LINQ\Task\Task\obj\Debug\Task.exe
+C:\Users\usenz\Desktop\EPAM\EPAM\LINQ\Task\Task\obj\Debug\Task.pdb

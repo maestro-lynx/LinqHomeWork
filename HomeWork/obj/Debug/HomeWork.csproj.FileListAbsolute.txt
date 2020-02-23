@@ -1,0 +1,9 @@
+C:\Users\usenz\Desktop\EPAM\EPAM\LINQ\Task\HomeWork\obj\Debug\HomeWork.csprojAssemblyReference.cache
+C:\Users\usenz\Desktop\EPAM\EPAM\LINQ\Task\HomeWork\obj\Debug\HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\usenz\Desktop\EPAM\EPAM\LINQ\Task\HomeWork\bin\Debug\HomeWork.exe.config
+C:\Users\usenz\Desktop\EPAM\EPAM\LINQ\Task\HomeWork\bin\Debug\HomeWork.exe
+C:\Users\usenz\Desktop\EPAM\EPAM\LINQ\Task\HomeWork\bin\Debug\HomeWork.pdb
+C:\Users\usenz\Desktop\EPAM\EPAM\LINQ\Task\HomeWork\obj\Debug\HomeWork.Properties.Resources.resources
+C:\Users\usenz\Desktop\EPAM\EPAM\LINQ\Task\HomeWork\obj\Debug\HomeWork.csproj.GenerateResource.cache
+C:\Users\usenz\Desktop\EPAM\EPAM\LINQ\Task\HomeWork\obj\Debug\HomeWork.exe
+C:\Users\usenz\Desktop\EPAM\EPAM\LINQ\Task\HomeWork\obj\Debug\HomeWork.pdb
